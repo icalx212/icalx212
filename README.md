@@ -7,18 +7,18 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@icalx_0">
-    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=8b5cf6" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube">
   </a>
   <a href="https://discord.gg/HmnuDDBRD2">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=8b5cf6" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord">
   </a>
   <a href="https://github.com/icalx">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=8b5cf6" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Python+Developer;Learning+C%2B%2B;Building+Synthex;Web+Development;Always+Building+Something" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Python+Developer;Learning+C%2B%2B;Building+Synthex;Web+Development;Always+Building+Something" alt="Typing animation">
 </p>
 
 About Me
@@ -48,7 +48,7 @@ Languages
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icalx&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icalx&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Most used languages">
 </p>
 
 Tech Stack
@@ -60,8 +60,8 @@ Tech Stack
 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icalx&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&rank_icon=github" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com/?user=icalx&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=icalx&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=icalx&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak">
 </p>
 
 Projects
@@ -82,7 +82,7 @@ Building better tools
 Learning web development
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=90&section=footer" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=90&section=footer" alt="Footer">
 </p>
 
 <p align="center">
